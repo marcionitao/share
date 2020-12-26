@@ -1,24 +1,9 @@
 # share
 
-## Project setup
-```
-npm install
-```
+This project is mainly about building a small code sharing platform with Vue.js, the Vue router, Vue Bootstrap and Codemirror for syntax highlighting. This project is well suited for beginners and is especially worth looking at because we connect many different libraries together.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## Technologies
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Vue
+- VueBoostrape
+- VueCodemirror
